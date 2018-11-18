@@ -1,0 +1,3 @@
+[submodule "KentflixClient"]
+	path = KentflixClient
+	url = https://github.com/KentCompSoc/KentFlixClient
